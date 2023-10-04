@@ -2,6 +2,7 @@
   "name": "courses_ts",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://turus090.github.io/goit-typescript-hw-01/",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
   },
